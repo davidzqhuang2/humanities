@@ -1,0 +1,26 @@
+================ Training Loss (Fri Sep  1 03:07:14 2017) ================
+================ Training Loss (Fri Sep  1 03:11:52 2017) ================
+================ Training Loss (Fri Sep  1 03:12:40 2017) ================
+================ Training Loss (Fri Sep  1 03:23:50 2017) ================
+================ Training Loss (Fri Sep  1 03:26:21 2017) ================
+================ Training Loss (Fri Sep  1 03:41:10 2017) ================
+================ Training Loss (Fri Sep  1 03:45:13 2017) ================
+================ Training Loss (Fri Sep  1 04:18:36 2017) ================
+================ Training Loss (Fri Sep  1 04:28:51 2017) ================
+(epoch: 1, iters: 100, time: 31.743) D_A: 0.177 G_A: 0.539 Cyc_A: 1.937 D_B: 0.426 G_B: 0.512 Cyc_B: 1.428 
+(epoch: 1, iters: 200, time: 28.859) D_A: 0.323 G_A: 0.521 Cyc_A: 3.129 D_B: 0.530 G_B: 0.358 Cyc_B: 1.318 
+(epoch: 1, iters: 300, time: 27.863) D_A: 0.270 G_A: 0.274 Cyc_A: 1.998 D_B: 0.304 G_B: 0.266 Cyc_B: 0.777 
+(epoch: 1, iters: 400, time: 28.472) D_A: 0.069 G_A: 0.241 Cyc_A: 2.109 D_B: 0.446 G_B: 0.458 Cyc_B: 1.198 
+(epoch: 1, iters: 500, time: 27.798) D_A: 0.258 G_A: 0.393 Cyc_A: 1.522 D_B: 0.314 G_B: 0.348 Cyc_B: 1.255 
+(epoch: 1, iters: 600, time: 29.836) D_A: 0.337 G_A: 0.607 Cyc_A: 2.111 D_B: 0.382 G_B: 0.320 Cyc_B: 0.564 
+(epoch: 1, iters: 700, time: 29.230) D_A: 0.223 G_A: 0.339 Cyc_A: 1.748 D_B: 0.323 G_B: 0.264 Cyc_B: 0.876 
+(epoch: 1, iters: 800, time: 28.799) D_A: 0.171 G_A: 0.388 Cyc_A: 2.224 D_B: 0.513 G_B: 0.062 Cyc_B: 0.642 
+(epoch: 1, iters: 900, time: 29.412) D_A: 0.145 G_A: 0.391 Cyc_A: 1.607 D_B: 0.276 G_B: 0.530 Cyc_B: 2.005 
+(epoch: 1, iters: 1000, time: 28.197) D_A: 0.223 G_A: 0.361 Cyc_A: 1.789 D_B: 0.319 G_B: 0.433 Cyc_B: 0.887 
+================ Training Loss (Fri Sep  1 18:41:04 2017) ================
+(epoch: 1, iters: 100, time: 29.238) D_A: 0.351 G_A: 0.288 Cyc_A: 2.446 D_B: 0.459 G_B: 0.469 Cyc_B: 1.380 
+(epoch: 1, iters: 200, time: 27.860) D_A: 0.115 G_A: 0.451 Cyc_A: 1.858 D_B: 0.483 G_B: 0.532 Cyc_B: 1.412 
+(epoch: 1, iters: 300, time: 27.762) D_A: 0.199 G_A: 0.269 Cyc_A: 1.257 D_B: 0.241 G_B: 0.279 Cyc_B: 1.733 
+(epoch: 1, iters: 400, time: 28.294) D_A: 0.507 G_A: 0.170 Cyc_A: 2.194 D_B: 0.238 G_B: 0.374 Cyc_B: 1.850 
+(epoch: 1, iters: 500, time: 27.798) D_A: 0.352 G_A: 0.700 Cyc_A: 1.577 D_B: 0.297 G_B: 0.295 Cyc_B: 0.662 
+(epoch: 1, iters: 600, time: 28.187) D_A: 0.214 G_A: 0.388 Cyc_A: 1.675 D_B: 0.255 G_B: 0.289 Cyc_B: 1.013 
