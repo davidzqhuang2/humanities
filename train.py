@@ -24,15 +24,12 @@ for epoch in range(opt.epoch_count, opt.niter + opt.niter_decay + 1):
         iter_start_time = time.time()
         total_steps += opt.batchSize
         epoch_iter += opt.batchSize
-        print("AFTER UPDATE -*-")
         model.set_input(data)
-        print("AFTER SET INPUT -*-")
         model.optimize_parameters()
-        print("AFTER OPTIM PARAM -*-")
 
         if total_steps % opt.display_freq == 0:
+            print("ENTER VISUALIZE -*-")
             visualizer.display_current_results(model.get_current_visuals(), epoch)
-        print("AFTER VISUALIZER DISPLAY CURRENT RESULTS -*-")
 
         if total_steps % opt.print_freq == 0:
             errors = model.get_current_errors()
@@ -40,10 +37,9 @@ for epoch in range(opt.epoch_count, opt.niter + opt.niter_decay + 1):
             visualizer.print_current_errors(epoch, epoch_iter, errors, t)
             if opt.display_id > 0:
                 visualizer.plot_current_errors(epoch, float(epoch_iter)/dataset_size, opt, errors)
-        print("AFTER VISUALIZER PLOT CURR ERROR -*-")
 
         if total_steps % opt.save_latest_freq == 0:
-            print('saving the latest model (epoch %d, total_steps %d)' %
+            print('saving the latest model (epoch%d, total_steps%d)' %
                   (epoch, total_steps))
             model.save('latest')
 
