@@ -3,3 +3,4 @@
 (epoch: 1, iters: 100, time: 28.284) D_A: 0.317 G_A: 0.249 Cyc_A: 2.669 D_B: 0.357 G_B: 0.253 Cyc_B: 3.375 
 (epoch: 1, iters: 200, time: 30.273) D_A: 0.260 G_A: 0.317 Cyc_A: 2.749 D_B: 0.284 G_B: 0.278 Cyc_B: 4.025 
 (epoch: 1, iters: 300, time: 27.374) D_A: 0.152 G_A: 0.365 Cyc_A: 3.553 D_B: 0.187 G_B: 0.247 Cyc_B: 2.360 
+(epoch: 1, iters: 400, time: 28.551) D_A: 0.230 G_A: 0.488 Cyc_A: 2.392 D_B: 0.153 G_B: 0.314 Cyc_B: 3.741 
