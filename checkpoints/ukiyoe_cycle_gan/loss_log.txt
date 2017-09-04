@@ -42,3 +42,5 @@
 ================ Training Loss (Mon Sep  4 00:01:24 2017) ================
 (epoch: 1, iters: 3900, time: 27.961) D_A: 0.138 G_A: 0.333 Cyc_A: 1.401 D_B: 0.335 G_B: 0.230 Cyc_B: 2.781 
 (epoch: 1, iters: 4000, time: 29.448) D_A: 0.355 G_A: 0.857 Cyc_A: 1.895 D_B: 0.127 G_B: 0.824 Cyc_B: 1.724 
+(epoch: 1, iters: 4100, time: 28.759) D_A: 0.051 G_A: 0.023 Cyc_A: 1.296 D_B: 0.218 G_B: 0.360 Cyc_B: 2.152 
+(epoch: 1, iters: 4200, time: 29.428) D_A: 0.220 G_A: 0.347 Cyc_A: 2.315 D_B: 0.231 G_B: 0.183 Cyc_B: 2.481 
