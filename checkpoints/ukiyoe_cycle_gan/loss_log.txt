@@ -63,3 +63,5 @@
 (epoch: 1, iters: 200, time: 28.068) D_A: 0.154 G_A: 0.082 Cyc_A: 1.425 D_B: 0.056 G_B: 0.043 Cyc_B: 2.611 
 (epoch: 1, iters: 300, time: 27.342) D_A: 0.595 G_A: 0.274 Cyc_A: 1.745 D_B: 0.226 G_B: 0.079 Cyc_B: 2.371 
 (epoch: 1, iters: 400, time: 30.383) D_A: 0.216 G_A: 0.289 Cyc_A: 1.778 D_B: 0.403 G_B: 0.545 Cyc_B: 2.051 
+(epoch: 1, iters: 500, time: 28.069) D_A: 0.248 G_A: 0.692 Cyc_A: 1.214 D_B: 0.141 G_B: 0.445 Cyc_B: 1.475 
+(epoch: 1, iters: 600, time: 28.103) D_A: 0.130 G_A: 0.351 Cyc_A: 2.356 D_B: 0.229 G_B: 0.256 Cyc_B: 2.282 
