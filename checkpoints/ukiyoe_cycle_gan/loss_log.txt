@@ -35,3 +35,10 @@
 (epoch: 1, iters: 3300, time: 28.855) D_A: 0.222 G_A: 0.162 Cyc_A: 2.166 D_B: 0.150 G_B: 0.874 Cyc_B: 2.004 
 (epoch: 1, iters: 3400, time: 29.240) D_A: 0.485 G_A: 0.763 Cyc_A: 2.259 D_B: 0.231 G_B: 0.316 Cyc_B: 1.819 
 (epoch: 1, iters: 3500, time: 28.068) D_A: 0.033 G_A: 0.655 Cyc_A: 2.102 D_B: 0.099 G_B: 0.285 Cyc_B: 2.640 
+(epoch: 1, iters: 3600, time: 27.570) D_A: 0.221 G_A: 0.432 Cyc_A: 2.575 D_B: 0.081 G_B: 0.643 Cyc_B: 2.051 
+(epoch: 1, iters: 3700, time: 29.065) D_A: 0.065 G_A: 0.369 Cyc_A: 2.284 D_B: 0.190 G_B: 0.287 Cyc_B: 1.658 
+(epoch: 1, iters: 3800, time: 29.176) D_A: 0.194 G_A: 1.148 Cyc_A: 2.873 D_B: 0.098 G_B: 0.302 Cyc_B: 2.639 
+================ Training Loss (Sun Sep  3 23:25:52 2017) ================
+================ Training Loss (Mon Sep  4 00:01:24 2017) ================
+(epoch: 1, iters: 3900, time: 27.961) D_A: 0.138 G_A: 0.333 Cyc_A: 1.401 D_B: 0.335 G_B: 0.230 Cyc_B: 2.781 
+(epoch: 1, iters: 4000, time: 29.448) D_A: 0.355 G_A: 0.857 Cyc_A: 1.895 D_B: 0.127 G_B: 0.824 Cyc_B: 1.724 
