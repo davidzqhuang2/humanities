@@ -121,3 +121,5 @@
 (epoch: 1, iters: 6000, time: 28.153) D_A: 0.152 G_A: 0.598 Cyc_A: 1.654 D_B: 0.172 G_B: 0.229 Cyc_B: 4.847 
 (epoch: 1, iters: 6100, time: 29.998) D_A: 0.217 G_A: 0.835 Cyc_A: 1.095 D_B: 0.152 G_B: 0.211 Cyc_B: 1.275 
 (epoch: 1, iters: 6200, time: 27.888) D_A: 0.273 G_A: 0.298 Cyc_A: 3.245 D_B: 0.349 G_B: 0.091 Cyc_B: 2.578 
+================ Training Loss (Wed Sep  6 18:35:50 2017) ================
+================ Training Loss (Wed Sep  6 18:49:55 2017) ================
